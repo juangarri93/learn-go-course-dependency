@@ -9,7 +9,7 @@ func SuperBark() string {
 }
 
 type Puppy struct {
-	name string
-	breed string 
-	age int
+	Name string
+	Breed string 
+	Age int
 }
