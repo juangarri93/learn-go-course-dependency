@@ -7,3 +7,9 @@ func Bark() string {
 func SuperBark() string {
 	return "Woooooooof!"
 }
+
+type Puppy struct {
+	name string
+	breed string 
+	age int
+}
